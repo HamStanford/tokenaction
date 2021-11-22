@@ -40,6 +40,10 @@
       "subtle": {
         "value": "#eceefe",
         "type": "color"
+      },
+      "RED": {
+        "value": "#FF0000",
+        "type": "color"
       }
     }
   }
