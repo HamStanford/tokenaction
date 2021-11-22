@@ -41,7 +41,7 @@
         "value": "#eceefe",
         "type": "color"
       },
-      "RED": {
+      "red": {
         "value": "#FF0000",
         "type": "color"
       }
